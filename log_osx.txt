@@ -1,0 +1,146 @@
+running install
+Checking .pth file support in /Library/Python/2.7/site-packages/
+/usr/bin/python -E -c pass
+TEST PASSED: /Library/Python/2.7/site-packages/ appears to support .pth files
+running bdist_egg
+running egg_info
+writing requirements to sample_py_package.egg-info/requires.txt
+writing sample_py_package.egg-info/PKG-INFO
+writing top-level names to sample_py_package.egg-info/top_level.txt
+writing dependency_links to sample_py_package.egg-info/dependency_links.txt
+reading manifest file 'sample_py_package.egg-info/SOURCES.txt'
+writing manifest file 'sample_py_package.egg-info/SOURCES.txt'
+installing library code to build/bdist.macosx-10.10-intel/egg
+running install_lib
+creating build/bdist.macosx-10.10-intel/egg
+creating build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/PKG-INFO -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/SOURCES.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/dependency_links.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/requires.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/top_level.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+creating 'dist/sample_py_package-0.0.1-py2.7.egg' and adding 'build/bdist.macosx-10.10-intel/egg' to it
+removing 'build/bdist.macosx-10.10-intel/egg' (and everything under it)
+Processing sample_py_package-0.0.1-py2.7.egg
+Removing /Library/Python/2.7/site-packages/sample_py_package-0.0.1-py2.7.egg
+Copying sample_py_package-0.0.1-py2.7.egg to /Library/Python/2.7/site-packages
+sample-py-package 0.0.1 is already the active version in easy-install.pth
+
+Installed /Library/Python/2.7/site-packages/sample_py_package-0.0.1-py2.7.egg
+Processing dependencies for sample-py-package==0.0.1
+Searching for matplotlib==1.3.1
+Best match: matplotlib 1.3.1
+matplotlib 1.3.1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for nose==1.3.7
+Best match: nose 1.3.7
+nose 1.3.7 is already the active version in easy-install.pth
+Installing nosetests script to /usr/local/bin
+Installing nosetests-2.7 script to /usr/local/bin
+
+Using /Library/Python/2.7/site-packages
+Searching for pyparsing==2.0.1
+Best match: pyparsing 2.0.1
+pyparsing 2.0.1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for tornado==4.2.1
+Best match: tornado 4.2.1
+tornado 4.2.1 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Searching for python-dateutil==1.5
+Best match: python-dateutil 1.5
+python-dateutil 1.5 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for numpy==1.8.0rc1
+Best match: numpy 1.8.0rc1
+numpy 1.8.0rc1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for certifi==2015.9.6.2
+Best match: certifi 2015.9.6.2
+certifi 2015.9.6.2 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Searching for backports.ssl-match-hostname==3.4.0.2
+Best match: backports.ssl-match-hostname 3.4.0.2
+backports.ssl-match-hostname 3.4.0.2 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Finished processing dependencies for sample-py-package==0.0.1
+running install
+Checking .pth file support in /Library/Python/2.7/site-packages/
+/usr/bin/python -E -c pass
+TEST PASSED: /Library/Python/2.7/site-packages/ appears to support .pth files
+running bdist_egg
+running egg_info
+writing requirements to sample_py_package.egg-info/requires.txt
+writing sample_py_package.egg-info/PKG-INFO
+writing top-level names to sample_py_package.egg-info/top_level.txt
+writing dependency_links to sample_py_package.egg-info/dependency_links.txt
+reading manifest file 'sample_py_package.egg-info/SOURCES.txt'
+writing manifest file 'sample_py_package.egg-info/SOURCES.txt'
+installing library code to build/bdist.macosx-10.10-intel/egg
+running install_lib
+creating build/bdist.macosx-10.10-intel/egg
+creating build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/PKG-INFO -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/SOURCES.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/dependency_links.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/requires.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+copying sample_py_package.egg-info/top_level.txt -> build/bdist.macosx-10.10-intel/egg/EGG-INFO
+creating 'dist/sample_py_package-0.0.1-py2.7.egg' and adding 'build/bdist.macosx-10.10-intel/egg' to it
+removing 'build/bdist.macosx-10.10-intel/egg' (and everything under it)
+Processing sample_py_package-0.0.1-py2.7.egg
+Removing /Library/Python/2.7/site-packages/sample_py_package-0.0.1-py2.7.egg
+Copying sample_py_package-0.0.1-py2.7.egg to /Library/Python/2.7/site-packages
+sample-py-package 0.0.1 is already the active version in easy-install.pth
+
+Installed /Library/Python/2.7/site-packages/sample_py_package-0.0.1-py2.7.egg
+Processing dependencies for sample-py-package==0.0.1
+Searching for matplotlib==1.3.1
+Best match: matplotlib 1.3.1
+matplotlib 1.3.1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for nose==1.3.7
+Best match: nose 1.3.7
+nose 1.3.7 is already the active version in easy-install.pth
+Installing nosetests script to /usr/local/bin
+Installing nosetests-2.7 script to /usr/local/bin
+
+Using /Library/Python/2.7/site-packages
+Searching for pyparsing==2.0.1
+Best match: pyparsing 2.0.1
+pyparsing 2.0.1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for tornado==4.2.1
+Best match: tornado 4.2.1
+tornado 4.2.1 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Searching for python-dateutil==1.5
+Best match: python-dateutil 1.5
+python-dateutil 1.5 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for numpy==1.8.0rc1
+Best match: numpy 1.8.0rc1
+numpy 1.8.0rc1 is already the active version in easy-install.pth
+
+Using /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python
+Searching for certifi==2015.9.6.2
+Best match: certifi 2015.9.6.2
+certifi 2015.9.6.2 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Searching for backports.ssl-match-hostname==3.4.0.2
+Best match: backports.ssl-match-hostname 3.4.0.2
+backports.ssl-match-hostname 3.4.0.2 is already the active version in easy-install.pth
+
+Using /Library/Python/2.7/site-packages
+Finished processing dependencies for sample-py-package==0.0.1
